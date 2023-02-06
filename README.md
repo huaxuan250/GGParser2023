@@ -21,3 +21,11 @@ Nominees: ~2%, ~13%
 Red Carpet: Best Dressed, Worst Dressed, Most Controversial
 
 Sentimental Analysis: Audience Attitudes towards Actors
+
+## References:
+#### GitHub 1: https://github.com/dwallach1/golden_globes_parser/blob/master/parser.py
+#### GitHub 2: https://github.com/akowalz/golden-globe-predictor 'Best' Filtering Method
+#### GitHub 3: https://github.com/milara/gg-project-master/blob/master/autograder.py Auto Grader Implementation
+#### GitHub 4: https://github.com/tejaswineesohoni/Golden-Globes/blob/master/src/functionDefinitions.py for more regular expression
+#### GitHub 5: https://github.com/Lukas-Justen/NLP-GoldenGlobes
+#### GitHub 6: https://github.com/zuzivian/nlp-golden-globes
