@@ -1,0 +1,4 @@
+spacy==3.4.4
+cinemagoer==2022.12.27
+nltk==3.8.1
+en-core-web-md @ https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.4.1/en_core_web_md-3.4.1-py3-none-any.whl
