@@ -16,3 +16,8 @@ Presenters: ~15%, ~20%
 Awards: ~3%, ~92%
 
 Nominees: ~2%, ~13%
+
+## Additional Goals:
+Red Carpet: Best Dressed, Worst Dressed, Most Controversial
+
+Sentimental Analysis: Audience Attitudes towards Actors
