@@ -8,7 +8,11 @@ When grading, run ``python gg_api.py`` first to generate the result data, and th
 
 ## Score for 2013: Completeness, Spelling
 Hosts: 100%, 100%
+
 Winner: ~50%
+
 Presenters: ~15%, ~20%
+
 Awards: ~3%, ~92%
+
 Nominees: ~2%, ~13%
